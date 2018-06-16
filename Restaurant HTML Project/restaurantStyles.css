@@ -1,0 +1,31 @@
+/*common element accross all pages */
+hr {
+	border-top: 2px solid #3F64C8;
+}
+#title {
+	font-family: Fantasy;
+	Color: #FF4040;
+}
+footer {
+	font-family: Fantasy;
+	Color: #FF4040;
+}
+body {
+	background-color: #FEF9F0;
+}
+a {
+	font-family: Fantasy;
+	padding: 5px;
+	Color: Black
+}
+a:visited {
+	Color: black;
+}
+a:hover {
+	font-weight: bold;
+}
+
+a:active {
+	Color: #FF4040;
+	Text-decoration: none;
+}
